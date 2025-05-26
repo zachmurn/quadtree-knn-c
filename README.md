@@ -1,6 +1,6 @@
 # 📍 Quad Tree KNN Search in C
 
-![https://en.wikipedia.org/wiki/Coat_of_arms_of_Yale_University#/media/File:Yale_University_Shield_1.svv]
+![https://en.wikipedia.org/wiki/Coat_of_arms_of_Yale_University#/media/File:Yale_University_Shield_1.svg]
 > **Intro to Data Mining — Yale University**  
 > Honor project for Vladimir Rokhlin
 
